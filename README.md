@@ -11,7 +11,7 @@ Class Eliana extends Person
 	public function new()
 	{
 		super();
-    trace("Created Person named " + _name + " with prounouns " + _pronouns);
+    		trace("Created Person named " + _name + " with prounouns " + _pronouns);
 	}
 }
 ```
