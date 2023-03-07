@@ -1,1 +1,3 @@
 Yes, I went onto https://try.haxe.org to write that haxe code
+
+Angel also helped me rewrite the code, I wrote it at 9AM and I'm too dumb to realize what I did wrong lmfaoooo
