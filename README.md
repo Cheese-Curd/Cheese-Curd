@@ -6,12 +6,12 @@ import Planets.Earth.Person;
 
 class Eliana extends Person
 {
-	public static var _name = Person.setName("Eliana");
-	public static var _pronouns = Person.setPronouns("She", "Her");
+	public static var name = Person.setName("Eliana");
+	public static var pronouns = Person.setPronouns("She", "Her");
 	public function new()
 	{
 		super();
-		trace("Created Person named " + _name + " with prounouns " + _pronouns);
+		trace("Created Person named " + name + " with prounouns " + pronouns);
 	}
 }
 ```
