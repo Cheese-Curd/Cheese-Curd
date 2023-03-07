@@ -7,7 +7,7 @@ import Planets.Earth.Person;
 class Eliana extends Person
 {
 	public static var name = Person.setName("Eliana");
-	public static var pronouns = Person.setPronouns("She", "Her");
+	public static var pronouns = Person.setPronouns(["She", "Her"]);
 	public function new()
 	{
 		super();
