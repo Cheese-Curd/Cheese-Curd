@@ -10,7 +10,7 @@ class Eliana extends Person
 	public static var _pronouns = Person.setPronouns("She", "Her");
 	public function new()
 	{
-		super.create();
+		super();
 		trace("Created Person named " + _name + " with prounouns " + _pronouns);
 	}
 }
