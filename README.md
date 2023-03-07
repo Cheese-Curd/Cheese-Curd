@@ -2,7 +2,7 @@
 ```hx
 package Earth;
 
-import Earth.Person;
+import Planets.Earth.Person;
 
 Class Eliana extends Person
 {
