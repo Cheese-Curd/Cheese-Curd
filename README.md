@@ -1,6 +1,6 @@
 ![Eliana's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cheese-curd&show_icons=true&theme=synthwave&count_private=true&custom_title=Eliana%27s%20Github%20Stats)
 
-![Eliana's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheese-curd)
+![Eliana's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheese-curd&theme=synthwave)
 ```hx
 package Planets.Earth;
 
